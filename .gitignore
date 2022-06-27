@@ -1,5 +1,10 @@
-*
-!/bspwm/*
-!/sxhdk/*
+# Ignore everything
+/*
+
+# But not these files
 !README.md
 !.gitignore
+
+# and not these folders
+!/bspwm
+!/sxhkd
