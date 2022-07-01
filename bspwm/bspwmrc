@@ -2,7 +2,7 @@
 
 pgrep -x sxhkd > /dev/null || sxhkd &
 
-bspc monitor -d I II III IV V VI VII VIII IX X
+bspc monitor -d 一 二 三 四 五 六 七 八 九 十
 
 bspc config border_width         2
 bspc config window_gap          12
@@ -20,3 +20,4 @@ polybar example &
 setxkbmap se &
 xinput set-prop "Elan Touchpad" "libinput Tapping Enabled" 1 &
 xinput set-prop "Elan Touchpad" "libinput Natural Scrolling Enabled" 1 &
+~/.fehbg &
