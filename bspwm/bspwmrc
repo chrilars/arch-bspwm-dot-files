@@ -2,6 +2,7 @@
 
 pgrep -x sxhkd > /dev/null || sxhkd &
 
+# Start compositor
 picom &
 
 bspc monitor -d 一 二 三 四 五 六 七 八 九 十
@@ -18,8 +19,13 @@ bspc rule -a Chromium desktop='^2'
 bspc rule -a mplayer2 state=floating
 bspc rule -a Kupfer.py focus=on
 bspc rule -a Screenkey manage=off
-polybar example &
+
+# Start polybar, set swedish keyboard and set wallpaper
+polybar chris &
 setxkbmap se &
+~/.fehbg &
+
+# Set tapping and natural scrolling
 xinput set-prop "Elan Touchpad" "libinput Tapping Enabled" 1 &
 xinput set-prop "Elan Touchpad" "libinput Natural Scrolling Enabled" 1 &
-~/.fehbg &
+
