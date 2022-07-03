@@ -147,3 +147,11 @@ XF86MonBrightnessDown
 XF86MonBrightnessUp
 	light -A 10
 
+# Take screenshot with gui
+Print
+    flameshot gui
+
+# Take screenshot of current screen
+shift + Print
+    flameshot screen
+
