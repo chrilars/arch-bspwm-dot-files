@@ -21,7 +21,7 @@ bspc rule -a Kupfer.py focus=on
 bspc rule -a Screenkey manage=off
 
 # Start polybar, set swedish keyboard and set wallpaper
-polybar chris &
+$HOME/.config/polybar/launch.sh
 setxkbmap se &
 ~/.fehbg &
 
