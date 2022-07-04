@@ -12,7 +12,7 @@ Detailed system setup:
 - WM: bspwm
 - Dock: Polybar
 - Compositor: picom
-- Editor: Neovim
+- Text Editor: Neovim
 - Application launcher: rofi
 - Wallpaper: feh
 - Screenshots: flameshot
