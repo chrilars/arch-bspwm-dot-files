@@ -1,4 +1,4 @@
-My dot files for the bspwm rice I use as a daily driver.
+Dot files for the bspwm rice I use as a daily driver on my laptop.
 
 Fonts used:
 - Fira Code
@@ -18,3 +18,5 @@ Detailed system setup:
 - Screenshots: flameshot
 - File explorer: Nautilus
 - Document viewer: zathura
+
+(Inspired by [cybi00000](https://github.com/cybi00000/Normie-rice)'s rice. I did most of the config on my own, but I did take his rofi config)
