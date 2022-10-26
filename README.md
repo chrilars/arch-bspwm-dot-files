@@ -2,7 +2,7 @@ Dot files for the bspwm rice I use as a daily driver on my laptop.
 
 Fonts used:
 - Fira Code
-- Font Awesome (only using free version)
+- Font Awesome (free version)
 - Adobe Source Han Sans (For japanese character support)
 
 Detailed system setup:
