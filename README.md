@@ -19,4 +19,4 @@ Detailed system setup:
 - File explorer: Nautilus
 - Document viewer: zathura
 
-(Inspired by [cybi00000](https://github.com/cybi00000/Normie-rice)'s rice. I did most of the config on my own, but I did take his rofi config)
+(Inspired by [cybi00000](https://github.com/cybi00000/Normie-rice)'s rice. I did most of the config on my own, but I did take their rofi config and wallpaper)
