@@ -1,4 +1,4 @@
-Dot files for the bspwm rice I use as a daily driver on my laptop.
+Dot files for the bspwm rice I use as a daily driver on my laptop. (Now outdated, currently using Fedora)
 
 Fonts used:
 - Fira Code
